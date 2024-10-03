@@ -1,0 +1,19 @@
+{
+  "name": "0x02-ES6_classes",
+  "version": "1.0.0",
+  "description": "0x02. ES6 classes OOP JavaScript ES6  Weight: 1  Project will start Oct 3, 2024 4:00 AM, must end by Oct 4, 2024 4:00 AM  Checker was released at Oct 3, 2024 10:00 AM  An auto review will be launched at the deadline",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+
+}
+"devDependencies": {
+    "jest": "^29.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.33.0"
+
+}
